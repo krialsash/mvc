@@ -8,5 +8,5 @@
 require_once '../model/model.php';
 $selected = new Article();
 $sel = $selected->posts();
-
+//var_dump($sel);
 require_once '../view/listForm.php';

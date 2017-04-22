@@ -5,5 +5,4 @@
  * Date: 15.04.17
  * Time: 13:05
  */
-$sss = require 'controller/read.php';
-var_dump($sss);
+require '/home/sash/www/mvc/controller/read.php';
